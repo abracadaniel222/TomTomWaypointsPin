@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: TomTom Waypoints Pin
+## Author: Abracadaniel222
+## Notes: Alt + Right Click on the map to create TomTom waypoints
+## Version: 1.0
+## Dependencies: TomTom
+## X-Website: https://github.com/abracadaniel222/TomTomWaypointsPin
+
+TomTomWaypointsPin.lua
